@@ -2,4 +2,4 @@
 - 👀 I’m interested in ... coding!
 - 🌱 I’m currently learning ... computer science!
 - 💞️ I’m looking to collaborate on ... everything!
-- 📫 How to reach me ... >_< 🐦✨
+- 📫 How to reach me ... Twitter >\_< :dove:
