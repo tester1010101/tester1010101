@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @tester1010101
-- 👀 I’m interested in ... coding!
-- 🌱 I’m currently learning ... computer science!
-- 💞️ I’m looking to collaborate on ... everything!
+- 👀 I’m interested in: coding & more!
+- 🌱 I’m currently learning: computer science;
+- 💞️ I’m looking to collaborate on: anything!
 - 📫 How to reach me ... Twitter >\_< :dove:
+- <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
