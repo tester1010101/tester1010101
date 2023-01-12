@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tester1010101
+- 👋 Hi, I’m @tester1010101 :computer:
 - 👀 I’m interested in ... coding/analysis/discussion!
 - 🌱 I’m currently learning ... computer science!
 - 💞️ I’m looking to collaborate on ... anything!
